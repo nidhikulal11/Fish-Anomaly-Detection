@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Datasets
+datasets/
+frames/
+videos/
+outputs/
+models/
+
+# YOLO
+runs/
+
+# Large files
+*.pt
+*.pth
+*.mp4
+*.avi
+*.mov
+*.zip
+*.npy
+*.csv
